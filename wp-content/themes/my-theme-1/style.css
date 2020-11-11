@@ -1,0 +1,207 @@
+/*
+Theme Name: Harshit-1
+Theme URI: http://harshit-gupta.netlify.app/
+Author: Harshit gupta
+Author URI: http://harshit-gupta.netlify.app/
+Description: Theme
+Version: 1.3
+Requires at least: 5.0
+Tested up to: 5.4
+Requires PHP: 7.0
+License: GNU General Public License v2 or later
+
+
+
+*/
+/******************************
+Header
+*******************************/
+.site-header{
+    height: 150px;
+    background: #f0f0f0;
+}
+.site-branding{
+    text-align: center;
+    width: 100%;
+    clear: both;
+}
+.site-branding a{
+    display: inline-block;
+    margin-top: 20px;
+}
+.site-branding img {
+    max-width: 200px;
+    max-height: 100px;
+}
+
+
+/******************************
+Main Menu
+*******************************/
+
+.site-navigation{
+    width: 100%;
+    display: block;
+    clear: both;
+    background: #2ca358;
+    height: 60px;
+}
+
+.site-navigation ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    clear: both;
+    text-align: center;
+}
+
+.site-navigation ul li {
+    display: inline-block;
+    height: 60px;
+    margin-left: -4px;
+}
+
+.site-navigation ul li a {
+    display: inline-block;
+    height: 100%;
+    padding: 0 40px;
+    line-height: 60px;
+    color: #f0f0f0;
+    border-right: 1px solid #83cb8d;
+}
+
+
+.site-navigation ul li a:hover{
+    text-decoration:none;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.site-navigation ul li:first-child a{
+    border-left: 1px solid #83cb8d;
+} 
+
+/******************************
+Home content
+*******************************/
+
+.home-main{
+    margin-top: 15px;
+}
+
+.custom-header{
+    margin-bottom:15px;
+}
+
+.home-posts{
+    padding: 0px 10px !important;
+    margin-bottom: 15px;
+}
+
+.post-header .post-thumbnail a{
+    display: inline-block;
+    width: 100%;   
+}
+
+.post-header .post-thumbnail img{
+    width: 100%;
+    
+}
+
+.post-header h1{
+    margin-top: 15px;
+    background: #f0f0f0;
+    padding: 10px;
+}
+
+.post-meta{
+    float: left;
+    margin-right: 10px;
+}
+
+.pagination{
+    padding: 10px;
+    text-align: center;
+}
+
+.pagination a , .page-numbers.current{
+    display: inline-block;
+    padding: 10px 15px;
+    background: #f0f0f0;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    color: #333333;
+    margin: 0px 5px;
+}
+
+
+.post-image, .post-title, .post-meta-row, .post-content{
+    width: 100%;
+    clear: both;
+    margin-bottom: 10px;
+}
+ 
+.post-image{
+    text-align: center;
+}
+.post-container{
+    margin-top: 15px;
+}
+
+.home-posts .section-head{
+    padding: 10px;
+    background: #2ca358;
+    color: #fff;
+}
+
+
+.home-posts .section-head h3{
+    margin: 0px;
+}
+
+.home-posts .section-content{
+    padding: 5px;
+
+}
+
+
+/******************************
+Sidebar and Widgets
+*******************************/
+
+.home-sidebar{
+    background: #ddd;
+   
+}
+
+.widget{
+    padding: 10px;
+    margin-bottom:10px ;
+}
+
+.widget-title{
+    margin: 0 0 10px 0;
+    padding: 10px 15px;
+    background: #333333;
+    color: #f0f0f0;
+    font-size: 20px;
+}
+
+.widget ul, .widget ol{
+    margin: 0 0 0 15px;
+    padding: 0;
+    list-style: none;
+}
+/******************************
+Footer
+*******************************/
+
+.site-footer{
+    margin-top: 15px;
+    background: #333333;
+    height: 200px;
+}
+
+.site-footer .widget a{
+    color: #ddd;
+}
