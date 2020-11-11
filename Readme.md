@@ -1,5 +1,8 @@
 ## WordPress Theme 1
 
+## Some Screenshots of the theme
+
+##                                  Home Page
 ![1](https://user-images.githubusercontent.com/46419188/98858869-4d3d9b00-2487-11eb-8e01-cfebf2d554ba.png)
 
 
@@ -10,7 +13,7 @@
 
 
 
-
+##                               Blog Page
 ![3](https://user-images.githubusercontent.com/46419188/98858908-60e90180-2487-11eb-832d-ef1006951235.png)
 
 
