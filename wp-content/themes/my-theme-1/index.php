@@ -18,6 +18,7 @@ get_header();
                             <article class="home-post">
                                 <div class="post-header">
                                     <div class="post-thumbnail row ml-0 mr-0">
+                                        <!-- the_permalink function is used to link a post to get detailed information.. -->
                                        <a href="<?php the_permalink() ?>" ><?php the_post_thumbnail('home-featured') ?></a>
                                     </div>
                                     <h1><a href="<?php the_permalink() ?>" ><?php the_title(); ?></a></h1>
