@@ -21,6 +21,7 @@ get_header();
                                         <!-- the_permalink function is used to link a post to get detailed information when you click on image -->
                                        <a href="<?php the_permalink() ?>" ><?php the_post_thumbnail('home-featured') ?></a>
                                     </div>
+                                     <!-- the_permalink function is used to link a post to get detailed information when you click on title -->
                                     <h1><a href="<?php the_permalink() ?>" ><?php the_title(); ?></a></h1>
                                 </div>
                                 <div class="post-description">
