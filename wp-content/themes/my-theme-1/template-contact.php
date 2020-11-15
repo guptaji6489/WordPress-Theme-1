@@ -20,6 +20,7 @@ get_header();
             <h1><?php the_title()  ?></h1>
             <!-- content of the post -->
             <p><?php the_content()  ?></p>
+         <!-- end of the while loop -->
         <?php endwhile; ?>
     <?php endif; ?>
 </div>
