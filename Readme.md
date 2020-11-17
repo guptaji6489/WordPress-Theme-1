@@ -1,8 +1,10 @@
-## WordPress Theme 1
 
-## Screenshots of the theme
+## RTCamp - WordPress Custom Theme
+This is a custom Wordpress Theme
 
-##                                  Home Page
+## Screenshots
+
+##  Home Page
 ![1](https://user-images.githubusercontent.com/46419188/98858869-4d3d9b00-2487-11eb-8e01-cfebf2d554ba.png)
 
 
@@ -13,7 +15,7 @@
 
 
 
-##                               Blog Page
+##    Blog Page
 ![3](https://user-images.githubusercontent.com/46419188/98858908-60e90180-2487-11eb-832d-ef1006951235.png)
 
 
