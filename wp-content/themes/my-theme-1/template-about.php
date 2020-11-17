@@ -27,6 +27,7 @@ get_header();
 
 
 <?php  
+//     footer content
     get_footer();
 ?>
 </div>
