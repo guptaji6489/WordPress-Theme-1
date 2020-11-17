@@ -1,6 +1,6 @@
 ## WordPress Theme 1
 
-## Some Screenshots of the theme
+## Screenshots of the theme
 
 ##                                  Home Page
 ![1](https://user-images.githubusercontent.com/46419188/98858869-4d3d9b00-2487-11eb-8e01-cfebf2d554ba.png)
