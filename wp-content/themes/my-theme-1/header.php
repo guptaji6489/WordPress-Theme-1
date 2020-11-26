@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
     <head> 
-        <!-- this wp_head is to include header part  -->
+        <!-- this wp_head is to include all the stylesheet or link part  -->
        <?php wp_head() ?> 
        <style type="text/css">
             /* from this style you can change body background color */
