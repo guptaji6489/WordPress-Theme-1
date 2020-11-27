@@ -12,7 +12,7 @@ function harshit_theme_setup(){
     // to create title tag
     add_theme_support('title-tag');
 
-    // for theme post thumbnails/images
+    // to add featured thumbnails/images 
     add_theme_support( 'post-thumbnails' );
 
     // for  image size 
