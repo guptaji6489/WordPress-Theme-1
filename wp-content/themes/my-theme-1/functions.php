@@ -6,7 +6,7 @@
 // here are some wordPress theme setups
 function harshit_theme_setup(){
 
-    // for custom logo
+    // for create custom logo
     add_theme_support('custom-logo');
 
     // for title tag setup
