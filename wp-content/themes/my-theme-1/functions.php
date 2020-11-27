@@ -9,7 +9,7 @@ function harshit_theme_setup(){
     // for create custom logo
     add_theme_support('custom-logo');
 
-    // for title tag setup
+    // to create title tag
     add_theme_support('title-tag');
 
     // for theme post thumbnails/images
