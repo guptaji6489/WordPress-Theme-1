@@ -1,5 +1,5 @@
 <?php
 /*
-* This is used to display 404 page.
+* This is page used to display  404 page.
 */
 ?>
