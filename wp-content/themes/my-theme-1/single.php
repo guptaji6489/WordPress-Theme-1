@@ -29,7 +29,7 @@ get_header();
             </div>
         </div>
         <div class="post-content">
-             <!-- content of the post -->
+             <!-- content of that post -->
             <?php the_content()  ?>
         </div>
         <?php endwhile; ?>
