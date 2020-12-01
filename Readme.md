@@ -1,6 +1,6 @@
 
 ## RTCamp - WordPress Custom Theme
-This is a custom Wordpress Theme
+This is custom Wordpress Theme
 
 ## Screenshots
 
