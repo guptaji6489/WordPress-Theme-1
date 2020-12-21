@@ -23,7 +23,7 @@
         <div class="site-main">
             <header class="site-header">
                 <div class="site-branding">
-                    <!-- this function the_custom_logo is used to make or set custom logo in theme -->
+                    <!-- this function the_custom_logo is used to make the or set custom logo in theme -->
                     <?php the_custom_logo() ?>
                 </div>
             </header>
